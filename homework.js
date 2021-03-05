@@ -53,4 +53,4 @@ function merge(arr1, arr2) {
 inputArray()
 console.log(merge(arr1, arr2))
 
-//bài 2 em chưa biết làm ạ
+//bài 2,3 em chưa biết làm ạ
